@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 align="center">👋 Hi! I'm Hieu</h1>
-  <h3>Backend Developer | EdTech Specialist | CS Education</h3>
+  <h3>Backend Developer | EdTech | CS Education</h3>
 </div>
 
 🎓 Computer Science Education student at Ho Chi Minh City University of Education
