@@ -152,7 +152,7 @@ A robust RESTful API for programming education platforms with automatic code exe
 **University of Education – Ho Chi Minh City**  
 *Bachelor of Education in Computer Science (2021-2025)*
 
-Expected Graduation: May 2025
+Graduated: May 2025
 
 ---
 
